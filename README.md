@@ -1,4 +1,4 @@
-# 💫 About Me:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Glòria!;I'm+a+Backend+Developer.)](https://git.io/typing-svg)
 Passionate and skilled web development specialist with a strong foundation in Node.js, recently graduated from the rigorous backend developer bootcamp at ItAcademy, Barcelona Activa. <br>I thrive on creating agile and innovative applications tailored to meet diverse client needs.<br><br>Known for being efficient and results-driven, I excel in dynamic environments and am always ready to tackle new challenges. <br>My goal is to contribute my expertise to a forward-thinking team where I can continue to grow and make a significant impact as a backend developer.
 
 
