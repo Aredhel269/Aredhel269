@@ -1,6 +1,12 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Glòria!;I'm+a+Backend+Developer.)](https://git.io/typing-svg)
-Passionate and skilled web development specialist with a strong foundation in Node.js, recently graduated from the rigorous backend developer bootcamp at ItAcademy, Barcelona Activa. <br>I thrive on creating agile and innovative applications tailored to meet diverse client needs.<br><br>Known for being efficient and results-driven, I excel in dynamic environments and am always ready to tackle new challenges. <br>My goal is to contribute my expertise to a forward-thinking team where I can continue to grow and make a significant impact as a backend developer.
 
+**Passionate and skilled web development specialist** with a strong foundation in **Node.js**, recently graduated from the rigorous **Backend Developer Bootcamp** at *ItAcademy, Barcelona Activa*.
+I thrive on creating agile and innovative applications tailored to meet diverse client needs.
+
+Known for being **efficient and results-driven**, I excel in dynamic environments and am always ready to tackle new challenges.
+My goal is to contribute my expertise to a forward-thinking team where I can continue to grow and make a significant impact as a **backend developer**.
+
+Currently expanding my technical toolkit through ongoing training in **Data Science**, with a focus on **Python**, data processing, and **Linux-based systems administration**. This complements my development skills and deepens my understanding of data-driven applications and infrastructure.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glòria-monzó-240879) 
