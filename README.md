@@ -14,9 +14,10 @@ Passionate about efficient development and scalable solutions. I combine robust 
 | **Databases** | <img src="https://img.shields.io/badge/-MySQL-000000?style=plastic&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-000000?style=plastic&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/-Prisma-000000?style=plastic&logo=prisma&logoColor=white"> |
 | **Data Science** | <img src="https://img.shields.io/badge/-Pandas-000000?style=plastic&logo=pandas&logoColor=white"> <img src="https://img.shields.io/badge/-NumPy-000000?style=plastic&logo=numpy&logoColor=white"> <img src="https://img.shields.io/badge/-SciPy-000000?style=plastic&logo=scipy&logoColor=white"> |
 | **DevOps**    | <img src="https://img.shields.io/badge/-Docker-000000?style=plastic&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-000000?style=plastic&logo=linux&logoColor=white"> |
-![Snake animation](https://github.com/Aredhel269/Aredhel269/blob/output/dist/snake.svg)
+
 
 # 📊 GitHub Stats:
+![Snake animation](https://github.com/Aredhel269/Aredhel269/blob/output/dist/snake.svg)
 ![](https://github-readme-stats.vercel.app/api?username=aredhel269&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aredhel269&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aredhel269&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
