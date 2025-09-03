@@ -24,16 +24,9 @@ Passionate about efficient development and scalable solutions. I combine robust 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aredhel269&theme=gotham&hide_border=false" height="150"/>
 </div>
 
-<!-- Separador centrat i proporcional -->
-<hr style="border:1px solid #7f8c8d; margin:10px auto 20px auto; width: 350px;">
-
-<!-- Subtítol centrat -->
-<p align="center" style="margin-bottom:8px; font-size: 14px; color:#7f8c8d;">
-  <b>Most Used Languages</b>
-</p>
 
 <!-- Targeta de llenguatges centrada -->
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aredhel269&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150"/>
 </p>
 
