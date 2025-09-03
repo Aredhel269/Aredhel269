@@ -17,7 +17,15 @@ Passionate about efficient development and scalable solutions. I combine robust 
 
 
 # 📊 GitHub Stats:
-![Snake animation](https://github.com/Aredhel269/Aredhel269/blob/output/snake.svg?raw=true)![](https://github-readme-stats.vercel.app/api?username=aredhel269&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
+[![wakatime](https://wakatime.com/badge/user/ffacf5ed-0121-4262-8c92-bc2203d463ab.svg)](https://wakatime.com/@ffacf5ed-0121-4262-8c92-bc2203d463ab)
+<p align="justify">
+  <img src="https://github.com/Aredhel269/Aredhel269/blob/output/snake.svg?raw=true"
+       alt="Snake animation" width="500">
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=aredhel269&theme=gotham&show_icons=true&hide_border=false&count_private=false&include_all_commits=true)
+<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aredhel269&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aredhel269&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
