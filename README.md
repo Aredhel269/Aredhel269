@@ -47,7 +47,4 @@ Passionate about **backend development** and **data**. Exploring ***AI and Big D
   
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
-
-![](https://hit.yhype.me/github/profile?account_id=52612900)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
