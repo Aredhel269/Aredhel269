@@ -48,7 +48,6 @@ Passionate about **backend development** and **data**. Exploring ***AI and Big D
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
-
-[![](https://visitcount.itsvg.in/api?id=aredhel269&icon=5&color=9)](https://visitcount.itsvg.in)
+![](https://hit.yhype.me/github/profile?account_id=52612900)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
