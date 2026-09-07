@@ -20,16 +20,17 @@ Passionate about **backend development** and **data**. Exploring ***AI and Big D
 | **DevOps**    | <img src="https://img.shields.io/badge/-Docker-000000?style=plastic&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/-Git-000000?style=plastic&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Linux-000000?style=plastic&logo=linux&logoColor=white"> |
 
 <hr style="border: 0; height: 1px; background-color: #7AF79A; margin: 10px 0;">
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aredhel269&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
-  <br>
-  
-  [![wakatime](https://wakatime.com/badge/user/ffacf5ed-0121-4262-8c92-bc2203d463ab.svg)](https://wakatime.com/@ffacf5ed-0121-4262-8c92-bc2203d463ab)
-  
-</p>
+  -->
 
+  <br>
+  <!--
+  [![wakatime](https://wakatime.com/badge/user/ffacf5ed-0121-4262-8c92-bc2203d463ab.svg)](https://wakatime.com/@ffacf5ed-0121-4262-8c92-bc2203d463ab)
+  </p>
+  -->
+  <!--
 <p align="center">
     <tr>
       <td>
@@ -40,7 +41,7 @@ Passionate about **backend development** and **data**. Exploring ***AI and Big D
       </td>
     </tr>
 </p>
-
+-->
 <hr style="border: 0; height: 1px; background-color: #7AF79A; margin: 10px 0;">
 <br>
 <p align="center">
