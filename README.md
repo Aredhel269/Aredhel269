@@ -7,7 +7,7 @@ Passionate about **backend development** and **data**. Exploring ***AI and Big D
 
 <p align="center">
   Visit my 
-  <a href="https://linkedin.com/in/glòria-monzó-240879">
+  <a href="https://www.linkedin.com/in/gloriamonzo240879/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
